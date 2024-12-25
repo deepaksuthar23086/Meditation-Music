@@ -17,10 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 # meditation-app
 
-![OnBoarding Screen](screenshots/flutter_01.png)
-![Home Screen](screenshots/flutter_02.png)
-![Player Light Mode](screenshots/flutter_03.png)
-![Player Dark Mode](screenshots/flutter_04.png)
+![Home Screen](screenshots/video.mp4)
 
 # file structure
     1. In this project clean architecture is used.
